@@ -1,0 +1,12 @@
+NET "B3"    		LOC = M8;
+NET "B2"    		LOC = V9;
+NET "B1"    		LOC = T9;
+NET "B0"    		LOC = T10;
+NET "A" 		LOC = T17;
+NET "B" 		LOC = T18;
+NET "C" 		LOC = U17;
+NET "D" 		LOC = U18;
+NET "E" 		LOC = M14;
+NET "F" 		LOC = N14;
+NET "G" 		LOC = L14;
+NET "DOT" LOC = M13; 

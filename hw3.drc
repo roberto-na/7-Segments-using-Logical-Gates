@@ -1,0 +1,8 @@
+Release 14.7 Drc P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Wed Aug 22 15:58:07 2018
+
+drc -z HW3.ncd HW3.pcf
+
+DRC detected 0 errors and 0 warnings.
